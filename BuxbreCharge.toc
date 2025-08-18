@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: BuxbrewCharge
+## Version: 1.0.0
+## Notes: Plays a random built-in emote (e.g., /charge, /attacktarget, /roar) when you press the configured action slot. 21s cooldown. Commands: /bbc slot <n>, watch, emote, info, timer, reset, save, debug
+## SavedVariables: BuxbrewChargeDB
+
+BuxbrewCharge.lua
