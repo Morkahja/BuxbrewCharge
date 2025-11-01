@@ -11,21 +11,11 @@ local EMOTE_TOKENS = {
   "ROAR",          -- /roar
   "CHEER",         -- /cheer
   "FLEX",          -- /flex
-  "THREATEN",      -- /threaten
-  "TAUNT",         -- /taunt
-  "POINT",         -- /point
-  "GLARE",         -- /glare
-  "GROWL",         -- /growl
   "TRAIN",         -- /train
-  "SALUTE",        -- /salute
   "LAUGH",         -- /lol
   "CHUCKLE",       -- /chuckle
-  "SMIRK",         -- /smirk
-  "READY",         -- some clients alias /ready; remove if not supported
-  "FLIRT",         -- /flirt
-  "KISS",          -- /kiss
-  "DANCE",         -- /dance
-  "BATTLECRY",     -- remove if your client doesn’t have it
+  "BORED",          -- /bored
+  "WHISTLE",         -- /whistle
 }
 
 -------------------------------------------------
