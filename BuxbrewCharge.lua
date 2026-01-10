@@ -106,7 +106,8 @@ SlashCmdList["BUXBREWCHARGE"] = function(raw)
   ensureLoaded()
   local s = raw or ""
   s = string.gsub(s, "^%s+", "")
-  local cmd, rest = string.match(s, "^(%S+)%s*(.-)$")
+
+  local _, _, cmd, rest = string.find(s, "^(%S+)%s*(.-)$")
 
   if cmd == "slot" then
     local n = tonumber(rest)
