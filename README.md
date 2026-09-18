@@ -1,2 +1,2 @@
 # BuxbrewCharge
-Charge addon for turtle wow
+Charge add-on for World of Warcraft 1.12

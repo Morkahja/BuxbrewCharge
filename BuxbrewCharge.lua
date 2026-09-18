@@ -1,4 +1,4 @@
--- BuxbrewCharge v1.0.0 (Vanilla/Turtle 1.12)
+-- BuxbrewCharge v1.0.0 (Vanilla 1.12)
 -- Account-wide SavedVariables. Lua 5.0-safe string handling.
 
 -------------------------------------------------
